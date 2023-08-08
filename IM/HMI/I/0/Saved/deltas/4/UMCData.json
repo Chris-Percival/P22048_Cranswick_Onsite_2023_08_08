@@ -1,0 +1,86 @@
+{
+  "version": "2",
+  "users": [
+    {
+      "name": "Darren",
+      "password": {
+        "hash": "RuIf05MxazPO59K2dR+cvg2ifsn7PsPRsgEVVsBVBJ/RMYmzpzfPF2YY7WjMYRP7dUXw2rnQ8fPz00sU2j+Qsw==",
+        "salt": "kHZM4povo4rkKZ8wEa7uOhcto7Pd1L+mf2+8anC3QbI=",
+        "algorithm": "PBKDF2-HMAC-SHA1",
+        "encoding": "utf16le",
+        "iteration": 10000
+      },
+      "fullname": "Darren",
+      "comment": "",
+      "alertbeforepasswordexpirationdays": 0,
+      "passwordexpirationdays": 0,
+      "autologoff": 30
+    },
+    {
+      "name": "User",
+      "password": {
+        "hash": "Tn5S98iDPNRqc/byXYEN07hHiQETsTcpboRKzERwy4fkMXpKNYteyasp86nvfQZDtJG5IVOmkaC7uMO4VBfKDg==",
+        "salt": "+mejm+4MwoBjXxUtzPilodUDmKxzR2fwn8KDlsl9+fM=",
+        "algorithm": "PBKDF2-HMAC-SHA1",
+        "encoding": "utf16le",
+        "iteration": 10000
+      },
+      "fullname": "User",
+      "comment": "",
+      "alertbeforepasswordexpirationdays": 0,
+      "passwordexpirationdays": 0,
+      "autologoff": 30
+    }
+  ],
+  "groups": [
+    {
+      "name": "HMI Administrator",
+      "roles": [
+        "HMI Administrator"
+      ],
+      "users": [
+        "Darren",
+        "User"
+      ]
+    },
+    {
+      "name": "HMI Operator",
+      "users": []
+    },
+    {
+      "name": "HMI Monitor",
+      "users": []
+    }
+  ],
+  "roles": [
+    {
+      "name": "HMI Administrator",
+      "rights": [
+        "UM_ADMIN",
+        "UM_IMPORT",
+        "UM_EXPORT",
+        "UM_VIEW",
+        "UM_RESETPWD"
+      ]
+    }
+  ],
+  "globalAccountPolicies": {
+    "enablePasswordHistoryByDays": 0,
+    "enablePasswordHistoryByNumber": 1,
+    "enablePasswordCheck": 1,
+    "numberOfPasswordBeforeReuse": 5,
+    "passwordAging": 0,
+    "passwordMaxLength": 120,
+    "passwordMinAlphaChar": 0,
+    "passwordMinLength": 8,
+    "passwordMinLowerChar": 1,
+    "passwordMinUpperChar": 1,
+    "passwordMinNumericChar": 1,
+    "passwordMinOtherChar": 0
+  },
+  "umcConfig": {
+    "local": {
+      "domainName": "UM_Domain"
+    }
+  }
+}

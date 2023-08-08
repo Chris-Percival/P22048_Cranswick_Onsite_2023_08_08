@@ -1,0 +1,7 @@
+<?xml version="1.0" standalone="no"?>
+<?xml-stylesheet type='text/xsl' href='MassDataHandlerLogFile.xsl'?>
+<LogFile titleName="Copy of PLCTags.xml" projectName="Z:\Documents\12.Temp Project Folder\Cranswick\Copy of PLCTags.xlsx" typeText="Type" messageText="Message" timeText="Time">
+  <LogEntry type="Error" dateTime="9:35:57 AM">
+    <Message>The PLC tag table 'DiscreteIO' entered in sheet 'PLC Tags' cannot be found in sheet 'TagTable Properties'.</Message>
+  </LogEntry>
+</LogFile>

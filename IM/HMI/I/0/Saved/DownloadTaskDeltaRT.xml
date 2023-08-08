@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DownloadTask xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectInfo ProjectId="27e32cb3-a687-4d33-9597-406cdeb9734f" ESProjectName="P22048_Cranswick_Onsite_2023_08_01" ESDeviceName="HMI_RT_1" RtProjectFolderName="P22048_Cranswick_Onsite_2023_08_01.MCC01.HMI_Old[MTP1200 Unified Comfort]" RtProjectName="P22048_Cranswick_Onsite_2023_08_01.MCC01.HMI_Old[MTP1200 Unified Comfort]" DeviceType="MTP1200 Unified Comfort" DeviceVersion="17.0.0.1" CreationTime="07/05/2023 04:45:20" RuntimeAddonFolderName="UCP_7_22" FirmwareFileName="" RuntimeFileName="" PRCV="3.0.0.1" RTCV="16.0.0.0" RTReleaseNo="17.0.0.1" ImageReleaseNo="17.0.0.5" />
+  <DeltaDownload>deltas\4\cds.rdf</DeltaDownload>
+  <DeltaDownload>deltas\4\ChromIdentification.rdf</DeltaDownload>
+  <DeltaDownload>deltas\4\deltaMain.rdf</DeltaDownload>
+  <DeltaDownload>deltas\4\ProjectCharacteristics.rdf</DeltaDownload>
+  <DeltaDownload>deltas\4\UMCData.json</DeltaDownload>
+  <DeltaDownload>deltas\4\User.pbb</DeltaDownload>
+</DownloadTask>

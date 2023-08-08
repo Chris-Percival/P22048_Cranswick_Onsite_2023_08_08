@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<DownloadTask xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ProjectInfo ProjectId="27e32cb3-a687-4d33-9597-406cdeb9734f" ESProjectName="P22048_Cranswick_Onsite_2023_08_01" ESDeviceName="HMI_RT_1" RtProjectFolderName="P22048_Cranswick_Onsite_2023_08_01.MCC01.HMI_Old[MTP1200 Unified Comfort]" RtProjectName="P22048_Cranswick_Onsite_2023_08_01.MCC01.HMI_Old[MTP1200 Unified Comfort]" DeviceType="MTP1200 Unified Comfort" DeviceVersion="17.0.0.1" CreationTime="07/05/2023 04:45:20" RuntimeAddonFolderName="UCP_7_22" FirmwareFileName="" RuntimeFileName="" PRCV="3.0.0.1" RTCV="16.0.0.0" RTReleaseNo="17.0.0.1" ImageReleaseNo="17.0.0.5" />
+  <FullDownload type="ADMINDATA">UMCData.json</FullDownload>
+  <FullDownload>User.pbb</FullDownload>
+  <FullDownload>config\config.level</FullDownload>
+  <FullDownload>device\devicesettings.pbb</FullDownload>
+  <FullDownload>device\environment.pbb</FullDownload>
+  <FullDownload>device\runtime.pbb</FullDownload>
+  <FullDownload>faceplates\faceplate_476.rdf</FullDownload>
+  <FullDownload>faceplates\faceplate_508.rdf</FullDownload>
+  <FullDownload>faceplates\faceplate_537.rdf</FullDownload>
+  <FullDownload>faceplates\faceplate_571.rdf</FullDownload>
+  <FullDownload>faceplates\faceplate_573.rdf</FullDownload>
+  <FullDownload>fonts\SISAN03.ttf</FullDownload>
+  <FullDownload>fonts\SISAN03.woff2</FullDownload>
+  <FullDownload>general\cds.rdf</FullDownload>
+  <FullDownload>general\ChromIdentification.rdf</FullDownload>
+  <FullDownload>general\config_AlertClass.rdf</FullDownload>
+  <FullDownload>general\config_AlertHandler.rdf</FullDownload>
+  <FullDownload>general\config_DpValue.rdf</FullDownload>
+  <FullDownload>general\config_HmiRuntime.rdf</FullDownload>
+  <FullDownload>general\config_InitialValue.rdf</FullDownload>
+  <FullDownload>general\config_LicenseCounter.rdf</FullDownload>
+  <FullDownload>general\config_Range.rdf</FullDownload>
+  <FullDownload>general\config_Smoothing.rdf</FullDownload>
+  <FullDownload>general\dpIdentification.rdf</FullDownload>
+  <FullDownload>general\fontLocatorList.rdf</FullDownload>
+  <FullDownload>general\main.rdf</FullDownload>
+  <FullDownload>general\style_113.rdf</FullDownload>
+  <FullDownload>general\style_189.rdf</FullDownload>
+  <FullDownload>general\style_41.rdf</FullDownload>
+  <FullDownload>general\textLibrary_111_1033.rdf</FullDownload>
+  <FullDownload>general\textLibrary_22_1033.rdf</FullDownload>
+  <FullDownload>general\textListLibrary.rdf</FullDownload>
+  <FullDownload>general\TypeContainer.rdf</FullDownload>
+  <FullDownload>graphics\graphicListLibrary.rdf</FullDownload>
+  <FullDownload>graphics\imageLibrary_1033.rdf</FullDownload>
+  <FullDownload>screens\screen_21.rdf</FullDownload>
+  <FullDownload>screens\screen_328.rdf</FullDownload>
+  <FullDownload>screens\screen_329.rdf</FullDownload>
+  <FullDownload>screens\screen_432.rdf</FullDownload>
+  <FullDownload>screens\screen_433.rdf</FullDownload>
+  <FullDownload>screens\screen_434.rdf</FullDownload>
+  <FullDownload>screens\screen_435.rdf</FullDownload>
+  <FullDownload>screens\screen_436.rdf</FullDownload>
+  <FullDownload>screens\screen_437.rdf</FullDownload>
+  <FullDownload>system\ProjectCharacteristics.rdf</FullDownload>
+</DownloadTask>
